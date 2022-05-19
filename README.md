@@ -1,5 +1,5 @@
 # 💫About Me :
-Hello there, this is Syed Afridi. I am a Frontend web Developer who has created over 60+ web templates and 300+ web components integrating HTML, CSS, and CSS Plugins such as Bootstrap, Tailwind CSS, CSS Animation, SASS,  JavaScript, and others. I am also enthusiastic in UI / UX Designing with FIGMA and have a solid understanding of Software Project Development Management.
+Hello there, this is Syed Afridi. I am a Frontend web Developer who has created over 60+ web templates and 300+ web components integrating HTML, CSS, and CSS Plugins such as Bootstrap, Tailwind CSS, CSS Animation, SASS,  JavaScript, and others. I am also enthusiastic in UI / UX Designing with FIGMA and have a solid understanding of Software Project Development Management.<br>
 Email: syedafridi401@gmail.com
 
 ## 🌐Socials
