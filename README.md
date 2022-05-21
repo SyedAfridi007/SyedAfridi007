@@ -15,5 +15,5 @@ Email: syedafridi401@gmail.com
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SyedAfridi007&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
----
+--
 
