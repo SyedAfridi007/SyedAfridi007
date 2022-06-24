@@ -1,6 +1,6 @@
 # 💫About Me :
 Hey Folks I am a professional Frontend web Developer, I completed over 60+ Web templates and 300+ web components using HTML, CSS, and CSS Pluging like Bootstrap, Tailwind CSS, CSS Animation, SASS, and JavaScript. I also have hands-on experience in UI/UX Design with FIGMA and precise knowledge of Software Project Development Management.<br>
-Email: syedafridi401@gmail.com
+Email: syedafridi401@gmail.com <br>
 Behance: https://www.behance.net/syedafridi007
 
 ## 🌐Socials
